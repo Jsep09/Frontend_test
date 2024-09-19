@@ -15,34 +15,18 @@ This project is a frontend code test utilizing React, Vite, TypeScript, and othe
    ```bash
    git clone <repository-url>
    cd <repository-directory>
-   npm install
    ```
 
 2. Install the dependencies:
 
+```bash
    npm install
-
-   Dependencies:
-   @emotion/react ^11.13.3
-   @emotion/styled ^11.13.0
-   @fontsource/roboto ^5.1.0
-   @mui/icons-material ^6.1.0
-   @mui/material ^6.1.0
-   @mui/styled-engine-sc ^6.1.0
-   @types/bcryptjs ^2.4.6
-   bcryptjs ^2.4.3
-   json-server ^1.0.0-beta.2
-   react ^18.3.1
-   react-dom ^18.3.1
-   react-router-dom ^6.26.2
-   styled-components ^6.1.13
+```
 
 ### Start Project
 
-In the project directory, you can run:
-
-npm run dev: Starts the Vite development server.
-npm run server: Starts a JSON server to serve db.json on port 8000.
+1. npm run dev: Starts the Vite development server.
+2. npm run server: Starts a JSON server to serve db.json on port 8000.
 
 ### Project Structure
 
