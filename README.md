@@ -24,15 +24,27 @@ This project is a frontend code test utilizing React, Vite, TypeScript, and othe
 
 ### Start Project
 
-```bash
-1. npm run dev: Starts the Vite development server.
-```
+1. Starts the Vite development server:
 
-```bash
-2. npm run server: Starts a JSON server to serve db.json on port 8000.
-```
+   ```bash
+    npm run dev
+   ```
+
+2. Starts a JSON server to serve db.json on port 8000:
+
+   ```bash
+    npm run server
+   ```
 
 ### Project Structure
 
 src/: Contains the source code for the frontend application.
 db.json: The file used by json-server for mock API data.
+
+```
+
+```
+
+```
+
+```
