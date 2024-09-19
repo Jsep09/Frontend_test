@@ -38,13 +38,5 @@ This project is a frontend code test utilizing React, Vite, TypeScript, and othe
 
 ### Project Structure
 
-src/: Contains the source code for the frontend application.
-db.json: The file used by json-server for mock API data.
-
-```
-
-```
-
-```
-
-```
+` bash src/: Contains the source code for the frontend application.`
+` bash db.json: The file used by json-server for mock API data.`
