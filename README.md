@@ -11,7 +11,6 @@ This project is a frontend code test utilizing React, Vite, TypeScript, and othe
 
 ### Installation
 
-Copy code
 npm install
 
 # or
