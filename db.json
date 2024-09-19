@@ -1,0 +1,124 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Peri",
+      "last_name": "Haggett",
+      "age": 25,
+      "email": "phaggett0@eepurl.com",
+      "gender": "Female",
+      "job_title": "Environmental Tech",
+      "salary": 141993.25,
+      "hire_date": "1/3/2011",
+      "department": "Marketing"
+    },
+    {
+      "id": 2,
+      "first_name": "Nefen",
+      "last_name": "Rowbotham",
+      "age": 30,
+      "email": "nrowbotham1@friendfeed.com",
+      "gender": "Male",
+      "job_title": "Geologist III",
+      "salary": 37228.45,
+      "hire_date": "6/23/2016",
+      "department": "Sales"
+    },
+    {
+      "id": 3,
+      "first_name": "Mead",
+      "last_name": "Treacy",
+      "age": 63,
+      "email": "mtreacy2@paypal.com",
+      "gender": "Female",
+      "job_title": "Statistician III",
+      "salary": 68442.66,
+      "hire_date": "11/14/2018",
+      "department": "Marketing"
+    },
+    {
+      "id": 4,
+      "first_name": "Robby",
+      "last_name": "Coultish",
+      "age": 60,
+      "email": "rcoultish3@archive.org",
+      "gender": "Male",
+      "job_title": "Assistant Professor",
+      "salary": 66789.86,
+      "hire_date": "1/10/2015",
+      "department": "Marketing"
+    },
+    {
+      "id": 5,
+      "first_name": "Antone",
+      "last_name": "Batson",
+      "age": 36,
+      "email": "abatson4@pinterest.com",
+      "gender": "Male",
+      "job_title": "Quality Engineer",
+      "salary": 123208.34,
+      "hire_date": "12/23/2016",
+      "department": "IT"
+    },
+    {
+      "id": 6,
+      "first_name": "Ives",
+      "last_name": "Laflin",
+      "age": 36,
+      "email": "ilaflin5@jalbum.net",
+      "gender": "Male",
+      "job_title": "Desktop Support Technician",
+      "salary": 31574.19,
+      "hire_date": "4/3/2015",
+      "department": "IT"
+    },
+    {
+      "id": 7,
+      "first_name": "Leandra",
+      "last_name": "Avramov",
+      "age": 27,
+      "email": "lavramov6@opera.com",
+      "gender": "Female",
+      "job_title": "Environmental Tech",
+      "salary": 113407.25,
+      "hire_date": "12/15/2017",
+      "department": "Marketing"
+    },
+    {
+      "id": 8,
+      "first_name": "Angelita",
+      "last_name": "Dionisetto",
+      "age": 55,
+      "email": "adionisetto7@acquirethisname.com",
+      "gender": "Female",
+      "job_title": "Administrative Officer",
+      "salary": 47329.13,
+      "hire_date": "10/18/2012",
+      "department": "HR"
+    },
+    {
+      "id": 9,
+      "first_name": "Ardis",
+      "last_name": "Johns",
+      "age": 63,
+      "email": "ajohns8@dion.ne.jp",
+      "gender": "Female",
+      "job_title": "Programmer III",
+      "salary": 31520.42,
+      "hire_date": "3/30/2019",
+      "department": "HR"
+    },
+    {
+      "id": 10,
+      "first_name": "Willi",
+      "last_name": "Tuttiett",
+      "age": 18,
+      "email": "wtuttiett9@networksolutions.com",
+      "gender": "Male",
+      "job_title": "Technical Writer",
+      "salary": 137679.23,
+      "hire_date": "6/4/2021",
+      "department": "Sales"
+    }
+  ]
+}
